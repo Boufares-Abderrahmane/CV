@@ -3,6 +3,11 @@
 🎯 **Data Analyst & Data Scientist Junior à la recherche d'emploi en France, disponible immédiatement**  
 Passionné par la data et l’analyse, j’utilise SQL, Python, R, Power BI, DAX, Excel et d’autres outils pour extraire, nettoyer, modéliser et visualiser les données.
 Je réalise des analyses statistiques, tests, modélisations prédictives et dashboards dynamiques pour transformer des données complexes en indicateurs fiables et recommandations concrètes. 
+
+Lors de mon expérience en tant que Data Analyst au sein de l’équipe de l’offre chez Cdiscount, j’ai conçu et automatisé des rapports stratégiques à destination d’un large éventail de décideurs et d’opérationnels : directeurs de l’offre, du pricing, du business development, responsables coordination des flux, ainsi que leurs équipes — acheteurs, approvisionneurs, coordinateurs de flux et autres fonctions clés.
+Ces rapports visaient à améliorer le taux de détention des meilleurs produits du marché, renforcer la compétitivité prix, et accélérer la prise de décision à tous les niveaux, du management intermédiaire au top management, en s’appuyant sur des analyses fiables, visuelles et facilement exploitables.
+En parallèle, mon expérience en tant que chargé d’études de marchés chez Pizzeria DiParma m’a permis de mener une enquête terrain pour évaluer le degré de satisfaction des clients, d’analyser les retours pour identifier des axes d’amélioration, et d’évaluer la réception potentielle de nouveaux produits, notamment l’ajout de burgers à la carte. J’ai également réalisé une étude de faisabilité économique afin de déterminer la rentabilité potentielle de ce nouveau produit, en croisant les données de coûts, de marges et de préférences clients pour appuyer les décisions du propriétaire.
+
 Mon objectif : faire de la data un levier stratégique de performance, d’optimisation et de compréhension approfondie.
 
 ## 🧠 Compétences clés
