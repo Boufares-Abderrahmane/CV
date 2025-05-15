@@ -26,7 +26,7 @@ Mon objectif : faire de la data un levier stratégique de performance, d’optim
 ## 📄 Mon CV
 [Télécharger mon CV (PDF)](https://github.com/Boufares-Abderrahmane/CV/blob/main/CV.pdf)
 
-## 🧪 Projets de data science & data analyse
+## Projets de data science & data analyse
 
 ### Data Analyste
 - **Analyse descriptive & reporting** : extraction, nettoyage, transformation, création de tableaux de bord  
