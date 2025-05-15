@@ -64,5 +64,5 @@ Mon objectif : faire de la data un levier stratégique de performance, d’optim
 
 ## 📬 Me contacter
 - [LinkedIn](www.linkedin.com/in/abderrahmane-boufares)  
-- Email : abderrahmane.boufares@mail.com
+- Email : boufares11@gmail.com
 - Téléphone : 0033651502658
